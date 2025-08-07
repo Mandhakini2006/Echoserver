@@ -21,7 +21,7 @@ Testing the server and client
 
 ## PROGRAM:
 client
-```
+```py
 import socket
 HOST = "127.0.0.1" 
 PORT = 65432  
